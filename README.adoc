@@ -1,0 +1,5 @@
+## Infinispan Kafka Camel Route for Demoing Infinispan Kafka Sink Connector from camel-kafka-connector
+
+mvn clean compile exec:java to run
+
+This needs the version 0.6.0 of the infinispan kafka connector from camel-kafka-connector
